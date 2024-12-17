@@ -1,0 +1,118 @@
+/*Registration form css*/
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+}
+
+.fitness_registration_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh;
+  width: 100vw; */
+  padding: 20px;
+}
+
+.fitness_registration_form_wrapper {
+  /* width: 100%;
+  max-width: 800px; */
+  background: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 30px;
+  box-sizing: border-box;
+  /* overflow-y: auto; */
+}
+
+.fitness_registration_subheading {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.fitness_registration_form_group {
+  margin-bottom: 20px;
+}
+
+.fitness_registration_label {
+  display: block;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #444;
+}
+
+.fitness_registration_input {
+  width: 100%;
+  padding: 12px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.fitness_registration_input:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.fitness_registration_checkbox_group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.fitness_registration_checkbox {
+  margin-right: 10px;
+}
+
+.fitness_registration_checkbox_group label {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.fitness_registration_input_other {
+  margin-top: 10px;
+}
+
+.fitness_registration_button_wrapper {
+  text-align: center;
+}
+
+.fitness_registration_button {
+  padding: 12px 20px;
+  font-size: 1.2rem;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.fitness_registration_button:hover {
+  background-color: #0056b3;
+}
+
+@media (max-width: 768px) {
+  .fitness_registration_form_wrapper {
+    padding: 20px;
+  }
+
+  .fitness_registration_subheading {
+    font-size: 1.5rem;
+  }
+
+  .fitness_registration_button {
+    font-size: 1rem;
+  }
+}

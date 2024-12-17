@@ -1,0 +1,431 @@
+/* /* home page css
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Header Styles */
+/* .Header {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brand-logo {
+    display: flex;
+    align-items: center;
+}
+
+.brand-logo img {
+    margin-right: 10px;
+}
+
+.Header ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Header ul li {
+    margin: 0 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.Header ul li:hover {
+    text-decoration: underline;
+}
+
+/* .Header button {
+    padding: 10px 20px;
+    background-color: #0056b3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+} */
+
+/* .Header button:hover {
+    background-color: #004494;
+} */ 
+.Header {
+    /* background: linear-gradient(to right, #f0f0f0, #e6e6e6); Light grey gradient */
+    background: linear-gradient(135deg, #d3d3d3 0%, #6c87a3 50%, #003366 100%);
+
+    padding: 15px 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky; /* Keeps navbar at the top while scrolling */
+    top: 0;
+    z-index: 10;
+}
+
+/* Brand Logo and Name */
+.brand-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adds spacing between logo and name */
+}
+
+.brand-logo img {
+    width: 40px; /* Slightly larger for visibility */
+    height: 40px;
+}
+
+.brand-logo i {
+    font-size: 22px; /* Slightly bigger font for "ZenFit" */
+    font-weight: bold;
+    color: #333; /* Darker grey for readability */
+}
+
+/* Navigation Links */
+.Header ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 20px; /* Adds equal spacing between navigation items */
+}
+
+.Header ul li {
+    font-size: 16px;
+    font-weight: 500;
+    color: #1b1919; /* Medium grey for subtlety */
+    cursor: pointer;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.Header ul li:hover {
+    text-decoration: underline;
+    color: #000; /* Darker text on hover */
+}
+
+/* Login Button */
+button {
+    background-color: #002244;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* button:hover {
+    background-color: #001a33; 
+} */
+
+
+/* Responsive Design for Smaller Screens */
+@media (max-width: 768px) {
+    .Header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .Header ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .Header button {
+        align-self: flex-end;
+    }
+}
+
+
+/* Modal Styles */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+}
+
+.modal-content {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    width: 400px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* General Modal Overlay */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+/* Popup Container */
+.popup_container {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 90%; /* Responsive width */
+    max-width: 400px; /* Maximum size */
+    padding: 20px;
+    position: relative;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+/* Close Button */
+.close_button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: #333;
+  
+    transition: color 0.3s;
+}
+
+.close_button:hover {
+    color: #f00;
+      cursor: pointer;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .popup_container {
+        padding: 15px;
+    }
+
+    .close_button {
+        font-size: 1.2rem;
+    }
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+
+
+/* .close-button:hover {
+    color: #ff0000;
+} */
+
+
+/* .modal-content button {
+    padding: 10px 20px;
+    background-color: #ff4757;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    margin-top: 20px;
+} */
+
+/* .modal-content button:hover {
+    background-color: #e84118;
+} */
+
+/* Section Styles */
+.section_div_1 {
+    background-image: url(../../Assets/gym.jpg);
+    height: 585px;
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+    display: flex; /* Enables flexbox */
+    flex-direction: column; /* Align items vertically */
+    justify-content: center; /* Centers content vertically */
+    align-items: center; /* Centers content horizontally */
+    text-align: center;
+    color: #fff;
+    padding: 20px; /* Adds a small padding for responsiveness */
+}
+
+.section_div_1 h1 {
+    font-size: 55px;
+    margin-bottom: 40px;
+    color: #000; /* Black text for better contrast */
+    max-width: 600px; /* Restrict the text width for readability */
+}
+
+.section_div_1 .explore_btn {
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #003366; /* Navy blue button background */
+    color: #fff; /* White text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+.section_div_1 .explore_btn:hover {
+    background-color: #001a33; /* Darker navy blue for hover */
+}
+
+
+.section_div_2 {
+    padding: 40px 20px;
+    background-color: #dde2f8;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 8px;
+}
+
+.section_div_2 form {
+    display: flex;
+    flex-direction: column;
+}
+
+.section_div_2 label {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.section_div_2 input {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.section_div_2 .calculate_btn {
+    padding: 12px 20px;
+    background-color: #003366;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.section_div_2 .calculate_btn:hover {
+    background-color: #003366;
+}
+
+/* Footer Styles */
+.footer_div {
+    background-color: #003366;
+    color: #ffffff;
+    padding: 40px 20px;
+}
+.footer_div img {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Maintain aspect ratio */
+    margin: 0 auto; /* Center if necessary */
+}
+
+.footer_div div {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.footer_div p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.footer_div ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer_div ul li {
+    font-size: 16px;
+}
+
+.footer_div ul li:hover {
+    text-decoration: underline;
+}
+
+.footer_div i {
+    font-size: 24px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.footer_div i:hover {
+    color: #007bff;
+}
+
+.footer_div .social-icons {
+    display: flex;
+    align-items: center;
+}
+
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .Header ul {
+        display: none;
+    }
+
+    .Header button {
+        margin-top: 10px;
+    }
+
+    .footer_div div {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .section_div_1 h1 {
+        font-size: 28px;
+    }
+
+    .section_div_1 button {
+        font-size: 16px;
+        padding: 12px 24px;
+    }
+
+    .section_div_2 {
+        width: 100%;
+        margin: 20px auto;
+    }
+    @media (max-width: 768px) {
+        .footer_div img {
+            width: 80px; /* Smaller logo for mobile screens */
+        }
+    }
+    
+} 
