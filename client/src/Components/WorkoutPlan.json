@@ -1,0 +1,54 @@
+[
+    {
+        "healthIssues": "Asthma",
+        "fitnessTypes": [
+            {
+                "fitnessGoal": "Weight Gain",
+                "plans": [
+                    {
+                        "monthPlan": "1 Month",
+                        "suggestion": "Lactose Intolerance: Use plant-based milk like almond, soy, or oat milk. Heart Disease: Focus on unsaturated fats, avoid trans fats, and limit saturated fats. Diabetes, Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                        "Breakdown": [
+                            {
+                                "BreakFast": "500-600 kcal",
+                                "MorningSnack": "300–400 kcal",
+                                "Lunch": "600–700 kcal",
+                                "EveningSnack": "300–400 kcal",
+                                "Dinner": "500–600 kcal",
+                                "OptionalSnack": "00–300 kcal"
+                            }
+                        ],
+                        "DietPlan": [
+                            {
+                                "Heading": "Breakfast (500–600 kcal) Oatmeal Bowl",
+                                "1": "1 cup cooked oats with almond milk.",
+                                "2": "1 tbsp almond butter.",
+                                "3": "1 tbsp chia seeds.",
+                                "4": "1 medium banana (sliced).",
+                                "5": "Herbal Tea or Black Coffee."
+                            },
+                            {
+                                "Heading": ""
+                            }
+                        ],
+                        "Food to Include": [
+                            {
+                                "Items": "Proteins: Chicken breast, salmon, eggs, tofu, lentils, chickpeas.Carbs: Oats, quinoa, brown rice, sweet potatoes, whole-grain bread.Fruits: Bananas, berries, apples, avocados.Vegetables: Leafy greens, cucumbers, tomatoes, carrots, broccoli.Healthy Fats: Olive oil, almond butter, chia seeds, nuts, seeds.Dairy Substitutes: Almond milk"
+                            }
+                        ]
+                    },
+                    {
+                        "monthPlan": "2 Months",
+                        "suggestion": "Hi"
+                    }
+                ]
+            },
+            {
+
+            }
+        ]
+    },
+    {
+        
+    }
+]
