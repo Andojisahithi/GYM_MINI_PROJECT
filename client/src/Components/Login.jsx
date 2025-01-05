@@ -1,6 +1,8 @@
 
+
+
 import React, { useState } from "react";
-import { useNavigate, Link } from "react-router-dom";
+import { useNavigate, Link,useParams } from "react-router-dom";
 import axios from "axios";
 import './Styles/Login.css';
 import Signup from "./Signup";
@@ -10,43 +12,60 @@ const Login = () => {
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const navigate = useNavigate();
+  const {userId}=useParams()
 
   const [isSignUpOpen, setIsSignUpOpen] = useState(false);
-  const [isLoginOpen, setIsLoginOpen] = useState(true); // New state to control login visibility
+  const [isLoginOpen, setIsLoginOpen] = useState(true);
+
+
 
   const handleLogin = async (e) => {
     e.preventDefault();
     try {
       const response = await axios.post("http://localhost:5000/api/login", {
+        userId,
         email,
         password,
       });
-
-      // Store the JWT token in localStorage
+      console.log("response", response);
+  
       localStorage.setItem("token", response.data.token);
+      localStorage.setItem("user", JSON.stringify(response.data.user));
+      localStorage.setItem("userId", response.data.user.userId);
 
-      // Redirect to Fitness Registration on successful login
-      navigate("/fitnessRegistration");
+      const userNumber = localStorage.getItem("userId");
+console.log("Stored userId:", userNumber);
+
+if (userNumber !== null) {
+          navigate(`/WorkOutPlan/${userNumber}`);
+        } else {
+          setIsSignUpOpen(true);
+        }
+
     } catch (err) {
+      console.error("Login error:", err); // Log full error details
       setError(err.response?.data?.message || "Something went wrong!");
     }
   };
+  
+
+
 
   const handleOpenSignUp = () => {
     setIsSignUpOpen(true);
-    setIsLoginOpen(false); // Hide the login form when signup modal opens
+    setIsLoginOpen(false);
   };
 
   const handleCloseSignUp = () => {
     setIsSignUpOpen(false);
-    setIsLoginOpen(true); // Show the login form again when signup modal closes
+    setIsLoginOpen(true);
   };
 
   const handleCloseSignUpForm = () => {
     setIsLoginOpen(true);
     setIsSignUpOpen(false);
-    navigate('/')
-};
+    navigate('/');
+  };
 
   return (
     <div className="login-container">
@@ -81,8 +100,8 @@ const Login = () => {
       {isSignUpOpen && (
         <div className="signup_modal_overlay" onClick={handleCloseSignUp}>
           <div className="signup_modal_content" onClick={(e) => e.stopPropagation()}>
-          <button className="signup_close_button" onClick={handleCloseSignUpForm}>
-                &times;
+            <button className="signup_close_button" onClick={handleCloseSignUpForm}>
+              &times;
             </button>
             <Signup />
           </div>
