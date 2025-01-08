@@ -25,7 +25,7 @@ const DietPlan = () => {
                             plans: [
                                 {
                                     monthPlan: "1 Month",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             BreakFast: "500-600 kcal",
@@ -85,7 +85,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "2 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -162,7 +162,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "3 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -260,7 +260,7 @@ const DietPlan = () => {
                             plans: [
                                 {
                                     monthPlan: "1 Month",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             BreakFast: "500-600 kcal",
@@ -325,7 +325,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "2 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -402,7 +402,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "3 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -500,7 +500,7 @@ const DietPlan = () => {
                             plans: [
                                 {
                                     monthPlan: "1 Month",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             BreakFast: "500-600 kcal",
@@ -565,7 +565,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "2 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -642,7 +642,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "3 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -740,7 +740,7 @@ const DietPlan = () => {
                             plans: [
                                 {
                                     monthPlan: "1 Month",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             BreakFast: "500-600 kcal",
@@ -805,7 +805,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "2 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -882,7 +882,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "3 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -980,7 +980,7 @@ const DietPlan = () => {
                             plans: [
                                 {
                                     monthPlan: "1 Month",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             BreakFast: "500-600 kcal",
@@ -1045,7 +1045,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "2 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -1122,7 +1122,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "3 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -1220,7 +1220,7 @@ const DietPlan = () => {
                             plans: [
                                 {
                                     monthPlan: "1 Month",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             BreakFast: "500-600 kcal",
@@ -1285,7 +1285,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "2 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -1362,7 +1362,7 @@ const DietPlan = () => {
                                 },
                                 {
                                     monthPlan: "3 Months",
-                                    suggestion: "Asthma: Avoid high-sugar foods to prevent spikes in blood sugar.",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
                                     Breakdown: [
                                         {
                                             "Month 1": "~2,000–2,200 kcal/day.",
@@ -1457,7 +1457,1379 @@ const DietPlan = () => {
                         }
                     ],
                 },
-                {}
+                {
+                    fitnessGoal: "Lose Weight",
+                    workOutType: [
+                        {
+                            WorkOutTitle: "Gym",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Yoga",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Pilates",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Muscle Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Aerobic Exercise",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Personal Homework Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        }
+                    ],
+                },
             ],
         },
         {
@@ -2908,7 +4280,1379 @@ const DietPlan = () => {
                         }
                     ]
                 },
-                {}
+                {
+                    fitnessGoal: "Lose Weight",
+                    workOutType: [
+                        {
+                            WorkOutTitle: "Gym",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Yoga",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Pilates",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Muscle Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Aerobic Exercise",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Personal Homework Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        }
+                    ],
+                }
             ]
         },
         {
@@ -4359,7 +7103,1379 @@ const DietPlan = () => {
                         }
                     ]
                 },
-                {}
+                {
+                    fitnessGoal: "Lose Weight",
+                    workOutType: [
+                        {
+                            WorkOutTitle: "Gym",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Yoga",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Pilates",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Muscle Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Aerobic Exercise",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Personal Homework Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        }
+                    ],
+                }
             ]
         },
         {
@@ -5810,7 +9926,1379 @@ const DietPlan = () => {
                         }
                     ]
                 },
-                {}
+                {
+                    fitnessGoal: "Lose Weight",
+                    workOutType: [
+                        {
+                            WorkOutTitle: "Gym",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Yoga",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Pilates",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Muscle Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Aerobic Exercise",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Personal Homework Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        }
+                    ],
+                }
             ]
         },
         {
@@ -7261,8 +12749,4198 @@ const DietPlan = () => {
                         }
                     ]
                 },
-                {}
+                {
+                    fitnessGoal: "Lose Weight",
+                    workOutType: [
+                        {
+                            WorkOutTitle: "Gym",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Yoga",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Pilates",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Muscle Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Aerobic Exercise",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Personal Homework Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        }
+                    ],
+                }
             ]
+        },
+        {
+            healthIssues: "Other",
+            fitnessTypes: [
+                {
+                    fitnessGoal: "Gain weight",
+                    workOutType: [
+                        {
+                            WorkOutTitle: "Gym",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            BreakFast: "500-600 kcal",
+                                            MorningSnack: "300–400 kcal",
+                                            Lunch: "600–700 kcal",
+                                            EveningSnack: "300–400 kcal",
+                                            Dinner: "500–600 kcal",
+                                            OptionalSnack: "00–300 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)-Oatmeal Bowl:",
+                                            "1": "1 cup cooked oats with almond milk.",
+                                            "2": "1 tbsp almond butter.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Herbal Tea or Black Coffee.",
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)-Grilled Chicken or Tofu Salad:",
+                                            "1": "150g grilled chicken or tofu.",
+                                            "2": "Mixed greens, cucumber, tomatoes, and 1/2 avocado.",
+                                            "3": "Olive oil and lemon dressing.",
+                                            "4": "1 cup cooked quinoa or brown rice."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)-Smoothie:",
+                                            "1": "1 cup unsweetened almond milk.",
+                                            "2": "1 scoop plant-based protein powder.",
+                                            "3": "1 tbsp peanut butter.",
+                                            "4": "1/2 cup frozen berries."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)-Grilled Salmon or Lentils:",
+                                            "1": "150g grilled salmon or 1 cup cooked lentils.",
+                                            "2": "Steamed broccoli and carrots (drizzle with olive oil).",
+                                            "3": "1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "1 cup unsweetened coconut yogurt with a sprinkle of granola.",
+                                            "2": "1 tbsp sunflower seeds."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken breast, salmon, eggs, tofu, lentils, chickpeas.",
+                                            "2": "Carbs: Oats, quinoa, brown rice, sweet potatoes, whole-grain bread.",
+                                            "3": "Fruits: Bananas, berries, apples, avocados.",
+                                            "4": "Vegetables: Leafy greens, cucumbers, tomatoes, carrots, broccoli.",
+                                            "5": "Healthy Fats: Olive oil, almond butter, chia seeds, nuts, seeds.",
+                                            "6": "Dairy Substitutes: Almond milk.",
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher)."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan).",
+                                            "8": "Month 3:",
+                                            "9": "Increase portion of oats to 1.5 cups.",
+                                            "10": "Add a handful of walnuts or pecans."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, 1/2 avocado, spinach, and unsweetened cocoa powder."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato.",
+                                            "8": "Month 3:",
+                                            "9": "Increase protein to 200g (chicken, fish, or tofu).",
+                                            "10": "Add 1 tbsp tahini dressing to vegetables."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, banana, protein powder, and peanut butter."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables.",
+                                            "8": "Month 3:",
+                                            "9": "Use 200g salmon, tofu, or lentils.",
+                                            "10": "Include 1/2 cup chickpeas or kidney beans."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher).",
+                                            "5": "Month 3:",
+                                            "6": "Add 1 slice of whole-grain bread with almond butter."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Yoga",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            BreakFast: "500-600 kcal",
+                                            MorningSnack: "300–400 kcal",
+                                            Lunch: "600–700 kcal",
+                                            EveningSnack: "300–400 kcal",
+                                            Dinner: "500–600 kcal",
+                                            OptionalSnack: "00–300 kcal"
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)-Oatmeal Bowl:",
+                                            "1": "1 cup cooked oats with almond milk.",
+                                            "2": "1 tbsp almond butter.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Herbal Tea or Black Coffee."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "2": "1 boiled egg or tofu scramble on whole-grain toast."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)-Grilled Chicken or Tofu Salad:",
+                                            "1": "150g grilled chicken or tofu.",
+                                            "2": "Mixed greens, cucumber, tomatoes, and 1/2 avocado.",
+                                            "3": "Olive oil and lemon dressing.",
+                                            "4": "1 cup cooked quinoa or brown rice."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)-Smoothie:",
+                                            "1": "1 cup unsweetened almond milk.",
+                                            "2": "1 scoop plant-based protein powder.",
+                                            "3": "1 tbsp peanut butter.",
+                                            "4": "1/2 cup frozen berries."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)-Grilled Salmon or Lentils:",
+                                            "1": "150g grilled salmon or 1 cup cooked lentils.",
+                                            "2": "Steamed broccoli and carrots (drizzle with olive oil).",
+                                            "3": "1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "1 cup unsweetened coconut yogurt with a sprinkle of granola.",
+                                            "2": "1 tbsp sunflower seeds."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken breast, salmon, eggs, tofu, lentils, chickpeas.",
+                                            "2": "Carbs: Oats, quinoa, brown rice, sweet potatoes, whole-grain bread.",
+                                            "3": "Fruits: Bananas, berries, apples, avocados.",
+                                            "4": "Vegetables: Leafy greens, cucumbers, tomatoes, carrots, broccoli.",
+                                            "5": "Healthy Fats: Olive oil, almond butter, chia seeds, nuts, seeds.",
+                                            "6": "Dairy Substitutes: Almond milk."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher)."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan).",
+                                            "8": "Month 3:",
+                                            "9": "Increase portion of oats to 1.5 cups.",
+                                            "10": "Add a handful of walnuts or pecans."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, 1/2 avocado, spinach, and unsweetened cocoa powder."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato.",
+                                            "8": "Month 3:",
+                                            "9": "Increase protein to 200g (chicken, fish, or tofu).",
+                                            "10": "Add 1 tbsp tahini dressing to vegetables."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, banana, protein powder, and peanut butter."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables.",
+                                            "8": "Month 3:",
+                                            "9": "Use 200g salmon, tofu, or lentils.",
+                                            "10": "Include 1/2 cup chickpeas or kidney beans."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher).",
+                                            "5": "Month 3:",
+                                            "6": "Add 1 slice of whole-grain bread with almond butter."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            WorkOutTitle: "Pilates",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            BreakFast: "500-600 kcal",
+                                            MorningSnack: "300–400 kcal",
+                                            Lunch: "600–700 kcal",
+                                            EveningSnack: "300–400 kcal",
+                                            Dinner: "500–600 kcal",
+                                            OptionalSnack: "00–300 kcal"
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)-Oatmeal Bowl:",
+                                            "1": "1 cup cooked oats with almond milk.",
+                                            "2": "1 tbsp almond butter.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Herbal Tea or Black Coffee."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "2": "1 boiled egg or tofu scramble on whole-grain toast."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)-Grilled Chicken or Tofu Salad:",
+                                            "1": "150g grilled chicken or tofu.",
+                                            "2": "Mixed greens, cucumber, tomatoes, and 1/2 avocado.",
+                                            "3": "Olive oil and lemon dressing.",
+                                            "4": "1 cup cooked quinoa or brown rice."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)-Smoothie:",
+                                            "1": "1 cup unsweetened almond milk.",
+                                            "2": "1 scoop plant-based protein powder.",
+                                            "3": "1 tbsp peanut butter.",
+                                            "4": "1/2 cup frozen berries."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)-Grilled Salmon or Lentils:",
+                                            "1": "150g grilled salmon or 1 cup cooked lentils.",
+                                            "2": "Steamed broccoli and carrots (drizzle with olive oil).",
+                                            "3": "1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "1 cup unsweetened coconut yogurt with a sprinkle of granola.",
+                                            "2": "1 tbsp sunflower seeds."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken breast, salmon, eggs, tofu, lentils, chickpeas.",
+                                            "2": "Carbs: Oats, quinoa, brown rice, sweet potatoes, whole-grain bread.",
+                                            "3": "Fruits: Bananas, berries, apples, avocados.",
+                                            "4": "Vegetables: Leafy greens, cucumbers, tomatoes, carrots, broccoli.",
+                                            "5": "Healthy Fats: Olive oil, almond butter, chia seeds, nuts, seeds.",
+                                            "6": "Dairy Substitutes: Almond milk."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher)."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan).",
+                                            "8": "Month 3:",
+                                            "9": "Increase portion of oats to 1.5 cups.",
+                                            "10": "Add a handful of walnuts or pecans."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, 1/2 avocado, spinach, and unsweetened cocoa powder."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato.",
+                                            "8": "Month 3:",
+                                            "9": "Increase protein to 200g (chicken, fish, or tofu).",
+                                            "10": "Add 1 tbsp tahini dressing to vegetables."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, banana, protein powder, and peanut butter."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables.",
+                                            "8": "Month 3:",
+                                            "9": "Use 200g salmon, tofu, or lentils.",
+                                            "10": "Include 1/2 cup chickpeas or kidney beans."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher).",
+                                            "5": "Month 3:",
+                                            "6": "Add 1 slice of whole-grain bread with almond butter."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            WorkOutTitle: "Muscle Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            BreakFast: "500-600 kcal",
+                                            MorningSnack: "300–400 kcal",
+                                            Lunch: "600–700 kcal",
+                                            EveningSnack: "300–400 kcal",
+                                            Dinner: "500–600 kcal",
+                                            OptionalSnack: "00–300 kcal"
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)-Oatmeal Bowl:",
+                                            "1": "1 cup cooked oats with almond milk.",
+                                            "2": "1 tbsp almond butter.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Herbal Tea or Black Coffee."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "2": "1 boiled egg or tofu scramble on whole-grain toast."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)-Grilled Chicken or Tofu Salad:",
+                                            "1": "150g grilled chicken or tofu.",
+                                            "2": "Mixed greens, cucumber, tomatoes, and 1/2 avocado.",
+                                            "3": "Olive oil and lemon dressing.",
+                                            "4": "1 cup cooked quinoa or brown rice."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)-Smoothie:",
+                                            "1": "1 cup unsweetened almond milk.",
+                                            "2": "1 scoop plant-based protein powder.",
+                                            "3": "1 tbsp peanut butter.",
+                                            "4": "1/2 cup frozen berries."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)-Grilled Salmon or Lentils:",
+                                            "1": "150g grilled salmon or 1 cup cooked lentils.",
+                                            "2": "Steamed broccoli and carrots (drizzle with olive oil).",
+                                            "3": "1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "1 cup unsweetened coconut yogurt with a sprinkle of granola.",
+                                            "2": "1 tbsp sunflower seeds."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken breast, salmon, eggs, tofu, lentils, chickpeas.",
+                                            "2": "Carbs: Oats, quinoa, brown rice, sweet potatoes, whole-grain bread.",
+                                            "3": "Fruits: Bananas, berries, apples, avocados.",
+                                            "4": "Vegetables: Leafy greens, cucumbers, tomatoes, carrots, broccoli.",
+                                            "5": "Healthy Fats: Olive oil, almond butter, chia seeds, nuts, seeds.",
+                                            "6": "Dairy Substitutes: Almond milk."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher)."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan).",
+                                            "8": "Month 3:",
+                                            "9": "Increase portion of oats to 1.5 cups.",
+                                            "10": "Add a handful of walnuts or pecans."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, 1/2 avocado, spinach, and unsweetened cocoa powder."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato.",
+                                            "8": "Month 3:",
+                                            "9": "Increase protein to 200g (chicken, fish, or tofu).",
+                                            "10": "Add 1 tbsp tahini dressing to vegetables."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, banana, protein powder, and peanut butter."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables.",
+                                            "8": "Month 3:",
+                                            "9": "Use 200g salmon, tofu, or lentils.",
+                                            "10": "Include 1/2 cup chickpeas or kidney beans."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher).",
+                                            "5": "Month 3:",
+                                            "6": "Add 1 slice of whole-grain bread with almond butter."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            WorkOutTitle: "Aerobic Exercise",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            BreakFast: "500-600 kcal",
+                                            MorningSnack: "300–400 kcal",
+                                            Lunch: "600–700 kcal",
+                                            EveningSnack: "300–400 kcal",
+                                            Dinner: "500–600 kcal",
+                                            OptionalSnack: "00–300 kcal"
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)-Oatmeal Bowl:",
+                                            "1": "1 cup cooked oats with almond milk.",
+                                            "2": "1 tbsp almond butter.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Herbal Tea or Black Coffee."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "2": "1 boiled egg or tofu scramble on whole-grain toast."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)-Grilled Chicken or Tofu Salad:",
+                                            "1": "150g grilled chicken or tofu.",
+                                            "2": "Mixed greens, cucumber, tomatoes, and 1/2 avocado.",
+                                            "3": "Olive oil and lemon dressing.",
+                                            "4": "1 cup cooked quinoa or brown rice."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)-Smoothie:",
+                                            "1": "1 cup unsweetened almond milk.",
+                                            "2": "1 scoop plant-based protein powder.",
+                                            "3": "1 tbsp peanut butter.",
+                                            "4": "1/2 cup frozen berries."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)-Grilled Salmon or Lentils:",
+                                            "1": "150g grilled salmon or 1 cup cooked lentils.",
+                                            "2": "Steamed broccoli and carrots (drizzle with olive oil).",
+                                            "3": "1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "1 cup unsweetened coconut yogurt with a sprinkle of granola.",
+                                            "2": "1 tbsp sunflower seeds."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken breast, salmon, eggs, tofu, lentils, chickpeas.",
+                                            "2": "Carbs: Oats, quinoa, brown rice, sweet potatoes, whole-grain bread.",
+                                            "3": "Fruits: Bananas, berries, apples, avocados.",
+                                            "4": "Vegetables: Leafy greens, cucumbers, tomatoes, carrots, broccoli.",
+                                            "5": "Healthy Fats: Olive oil, almond butter, chia seeds, nuts, seeds.",
+                                            "6": "Dairy Substitutes: Almond milk."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher)."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan).",
+                                            "8": "Month 3:",
+                                            "9": "Increase portion of oats to 1.5 cups.",
+                                            "10": "Add a handful of walnuts or pecans."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, 1/2 avocado, spinach, and unsweetened cocoa powder."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato.",
+                                            "8": "Month 3:",
+                                            "9": "Increase protein to 200g (chicken, fish, or tofu).",
+                                            "10": "Add 1 tbsp tahini dressing to vegetables."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, banana, protein powder, and peanut butter."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables.",
+                                            "8": "Month 3:",
+                                            "9": "Use 200g salmon, tofu, or lentils.",
+                                            "10": "Include 1/2 cup chickpeas or kidney beans."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher).",
+                                            "5": "Month 3:",
+                                            "6": "Add 1 slice of whole-grain bread with almond butter."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            WorkOutTitle: "Personal Homework Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            BreakFast: "500-600 kcal",
+                                            MorningSnack: "300–400 kcal",
+                                            Lunch: "600–700 kcal",
+                                            EveningSnack: "300–400 kcal",
+                                            Dinner: "500–600 kcal",
+                                            OptionalSnack: "00–300 kcal"
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)-Oatmeal Bowl:",
+                                            "1": "1 cup cooked oats with almond milk.",
+                                            "2": "1 tbsp almond butter.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Herbal Tea or Black Coffee."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "2": "1 boiled egg or tofu scramble on whole-grain toast."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)-Grilled Chicken or Tofu Salad:",
+                                            "1": "150g grilled chicken or tofu.",
+                                            "2": "Mixed greens, cucumber, tomatoes, and 1/2 avocado.",
+                                            "3": "Olive oil and lemon dressing.",
+                                            "4": "1 cup cooked quinoa or brown rice."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)-Smoothie:",
+                                            "1": "1 cup unsweetened almond milk.",
+                                            "2": "1 scoop plant-based protein powder.",
+                                            "3": "1 tbsp peanut butter.",
+                                            "4": "1/2 cup frozen berries."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)-Grilled Salmon or Lentils:",
+                                            "1": "150g grilled salmon or 1 cup cooked lentils.",
+                                            "2": "Steamed broccoli and carrots (drizzle with olive oil).",
+                                            "3": "1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "1 cup unsweetened coconut yogurt with a sprinkle of granola.",
+                                            "2": "1 tbsp sunflower seeds."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken breast, salmon, eggs, tofu, lentils, chickpeas.",
+                                            "2": "Carbs: Oats, quinoa, brown rice, sweet potatoes, whole-grain bread.",
+                                            "3": "Fruits: Bananas, berries, apples, avocados.",
+                                            "4": "Vegetables: Leafy greens, cucumbers, tomatoes, carrots, broccoli.",
+                                            "5": "Healthy Fats: Olive oil, almond butter, chia seeds, nuts, seeds.",
+                                            "6": "Dairy Substitutes: Almond milk."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher)."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Ensure a good balance of carbohydrates (45-60%), protein (25-35%), and healthy fats (15-25%).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked oatmeal (with almond milk).",
+                                            "3": "1 tbsp almond butter.",
+                                            "4": "1 medium banana (sliced).",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 tbsp chia seeds or 2 tbsp ground flaxseeds to oatmeal.",
+                                            "7": "Include 1 boiled egg (or scrambled tofu if vegan).",
+                                            "8": "Month 3:",
+                                            "9": "Increase portion of oats to 1.5 cups.",
+                                            "10": "Add a handful of walnuts or pecans."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Handful of mixed nuts (almonds, walnuts, pistachios)",
+                                            "3": "1 small apple or pear.",
+                                            "4": "Month 2:",
+                                            "5": "Add 1 tbsp of sunflower or pumpkin seeds.",
+                                            "6": "Include a small slice of whole-grain bread with almond butter.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, 1/2 avocado, spinach, and unsweetened cocoa powder."
+                                        },
+                                        {
+                                            Heading: "Lunch (600–700 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup cooked quinoa or brown rice.",
+                                            "3": "Grilled chicken or tofu (150g).",
+                                            "4": "Mixed vegetable salad with olive oil and lemon. dressing.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1/2 avocado to the salad.",
+                                            "7": "Include 1 medium baked sweet potato.",
+                                            "8": "Month 3:",
+                                            "9": "Increase protein to 200g (chicken, fish, or tofu).",
+                                            "10": "Add 1 tbsp tahini dressing to vegetables."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack (300–400 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 cup unsweetened coconut yogurt with berries.",
+                                            "3": "1 tbsp chia seeds.",
+                                            "4": "Month 2:",
+                                            "5": "Add a handful of granola to the yogurt.",
+                                            "6": "Include 1 boiled egg or a small serving of hummus with carrots.",
+                                            "7": "Month 3:",
+                                            "8": "Smoothie: Blend almond milk, banana, protein powder, and peanut butter."
+                                        },
+                                        {
+                                            Heading: "Dinner (500–600 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "Grilled salmon or lentils (150g).",
+                                            "3": "Steamed broccoli and carrots with olive oil.",
+                                            "4": "1 cup cooked quinoa.",
+                                            "5": "Month 2:",
+                                            "6": "Add 1 medium roasted sweet potato.",
+                                            "7": "Increase portion of vegetables.",
+                                            "8": "Month 3:",
+                                            "9": "Use 200g salmon, tofu, or lentils.",
+                                            "10": "Include 1/2 cup chickpeas or kidney beans."
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack (200–300 kcal)",
+                                            "1": "Month 1:",
+                                            "2": "1 small handful of nuts or seeds.",
+                                            "3": "Month 2:",
+                                            "4": "Include a piece of dark chocolate (70% or higher).",
+                                            "5": "Month 3:",
+                                            "6": "Add 1 slice of whole-grain bread with almond butter."
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                },
+                {
+                    fitnessGoal: "Lose Weight",
+                    workOutType: [
+                        {
+                            WorkOutTitle: "Gym",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Yoga",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Pilates",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Muscle Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Aerobic Exercise",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        },
+                        {
+                            WorkOutTitle: "Personal Homework Workout",
+                            plans: [
+                                {
+                                    monthPlan: "1 Month",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            Breakfast: "350-450 kcal",
+                                            MorningSnack: "200-300 kcal",
+                                            Lunch: "400-500 kcal",
+                                            EveningSnack: "200-300 kcal",
+                                            Dinner: "400-500 kcal",
+                                            OptionalSnack: "100-200 kcal",
+                                        },
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast",
+                                            "1": "1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "2": "1 cup black coffee/green/milk tea",
+
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack",
+                                            "1": "1 handful of almonds (5-6 pcs) or",
+                                            "2": "1 cucumber/carrot/beetroot ",
+
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "2": "1 cup lentils (dal)",
+                                            "3": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "4": "1 bowl of salad (cucumber, tomato, carrot, lemon)"
+                                        },
+                                        {
+                                            Heading: "Dinner",
+                                            "1": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "2": "1 cup steamed veggies or stir-fried tofu/paneer.",
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack",
+                                            "1": "1 small glass of warm milk (no sugar) or",
+                                            "2": "1 small fruit (if hungry)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            "Heading": "Food to Include:",
+                                            "1": "Proteins: Chicken breast, turkey, tofu, tempeh, salmon, tuna, cod, eggs (or egg whites), lentils, chickpeas, Greek yogurt (unsweetened, low-fat or non-dairy alternative).",
+                                            "2": "Carbs: Oats (unsweetened), quinoa, brown rice, sweet potatoes, cauliflower rice, whole-grain bread (high fiber), zucchini noodles (zoodles), apples (with skin), pears, oranges, grapefruit, kiwi.",
+                                            "3": "Fruits: Berries (blueberries, raspberries, strawberries, blackberries), apples (with skin for fiber), pears, oranges, grapefruit, kiwi, avocados (in moderation).",
+                                            "4": "Vegetables: Leafy greens (spinach, kale, lettuce, arugula, Swiss chard), cucumbers, tomatoes, broccoli, cauliflower, carrots, zucchini, bell peppers, asparagus, mushrooms, green beans, Brussels sprouts, cabbage.",
+                                            "5": "Healthy Fats: Olive oil, almond butter (natural, no added sugar), chia seeds, flaxseeds, nuts (almonds, walnuts, pistachios), pumpkin seeds, hemp seeds, coconut oil (in moderation).",
+                                            "6": "Dairy Substitutes: Almond milk (unsweetened), coconut milk (unsweetened), soy milk (unsweetened), cashew milk (unsweetened), unsweetened Greek yogurt or non-dairy alternatives (e.g., coconut or almond-based)."
+                                        },
+                                    ],
+                                },
+                                {
+                                    monthPlan: "2 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange)",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~1,800–2,000 kcal/day",
+                                            "Month 2": "~1,800–2,200 kcal/day",
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots."
+
+                                        },
+                                        {
+                                            Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                },
+                                {
+                                    monthPlan: "3 Months",
+                                    suggestion: "Drink 1 glass of lukewarm water with lemon,2 boiled eggs or 1 cup poha/upma,1 small fruit (apple/banana/orange).",
+                                    Breakdown: [
+                                        {
+                                            "Month 1": "~2,000–2,200 kcal/day.",
+                                            "Month 2": "~2,300–2,500 kcal/day.",
+                                            "Month 3": "~2,600–2,800 kcal/day."
+                                        }
+                                    ],
+                                    DietPlan: [
+                                        {
+                                            Heading: "Breakfast ",
+                                            "1":"Month 1:",
+                                            "2":"1 bowl of oatmeal with a dash of honey or 2 whole wheat toasts with peanut butter",
+                                            "3": "1 cup black coffee/green/milk tea",
+                                            "4":"Month 2:",
+                                            "5":"2 whole wheat toasts with 1 tbsp peanut butter OR 1 cup poha/upma with added vegetables.",
+                                            "6":"Beverage: Green tea or milk tea (unsweetened).",
+                                            "7":"Month 3:",
+                                            "8":"1 spinach and mushroom omelet (2 eggs) with 1 slice of multigrain bread.OR 1 smoothie bowl (blend spinach, banana, almond milk, flaxseeds)."
+                                        },
+                                        {
+                                            Heading: "Mid-Morning Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 handful of almonds (5-6 pcs) or",
+                                            "3": "1 cucumber/carrot/beetroot -",
+                                            "4": "Month 2:",
+                                            "5": "6-7 almonds or 2 walnuts.",
+                                            "6": "OR 1 cucumber/carrot sticks.",
+                                            "7":"Month 3:",
+                                            "8":"1 small handful of trail mix (almonds, walnuts, dried cranberries).OR 1 boiled beetroot."
+                                        },
+                                        {
+                                            Heading: "Lunch",
+                                            "1": "Month 1:",
+                                            "2": "1 cup brown rice or 2 whole wheat chapatis",
+                                            "3": "1 cup lentils (dal)",
+                                            "4": "1 cup mixed vegetable curry or sautéed veggies",
+                                            "5": "1 bowl of salad (cucumber, tomato, carrot, lemon)",
+                                            "6": "Month 2:",
+                                            "7": "1 cup quinoa or 2 millet-based chapatis.",
+                                            "8":"1 cup lentils (dal).",
+                                            "9":"1 cup mixed vegetable curry or sautéed veggies,1 small bowl of sprout salad.",
+                                            "10":"1 cup couscous or 2 whole wheat chapatis.",
+                                            "11":"1 cup chickpea curry or grilled paneer.",
+                                            "12":"1 bowl of salad (cucumber, tomato, lettuce, lemon)."
+                                        },
+                                        {
+                                            Heading: "Afternoon Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 cup green tea/black coffee",
+                                            "3": "1 roasted chickpea (chana) or 1 boiled corn.",
+                                            "4": "Month 2:",
+                                            "5": "1 cup green tea or black coffee.",
+                                            "6": "1 handful of roasted seeds (pumpkin, sunflower).",
+                                            "7":"1 cup green tea or black coffee.",
+                                            "8":"1 handful of roasted seeds (pumpkin, sunflower)."
+                                        },
+                                        {
+                                            Heading: "Dinner ",
+                                            "1": "Month 1:",
+                                            "2": "1 bowl of vegetable soup or grilled chicken/fish (150g)",
+                                            "3": "1 cup steamed veggies or stir-fried tofu/paneer",
+                                            "4": "Month 2:",
+                                            "5": "1 bowl of chicken soup with a side of sautéed spinach.",
+                                            "6": "OR grilled fish (150g) with stir-fried broccoli and carrots.",
+                                            "7":"Grilled salmon (150g) with roasted zucchini and asparagus.OR vegetable quinoa bowl with a dash of olive oil."
+                                        },
+                                        {
+                                             Heading: "Optional Evening Snack ",
+                                            "1": "Month 1:",
+                                            "2": "1 small glass of warm milk (no sugar) or",
+                                            "3": "Month 2:",
+                                            "4": "1 small glass of warm milk (no sugar)"
+                                        }
+                                    ],
+                                    "Food to Include": [
+                                        {
+                                            Heading: "Food to Include:",
+                                            "1": "Proteins: Chicken, salmon, tofu, eggs, lentils, chickpeas.",
+                                            "2": "Carbs: Quinoa, oats, brown rice, sweet potatoes.",
+                                            "3": "Healthy Fats: Avocado, olive oil, almond butter, nuts.",
+                                            "4": "Fruits and Veggies: Berries, spinach, kale, carrots, broccoli.",
+                                            "5": "Dairy Alternatives: Unsweetened almond milk, soy milk, coconut yogurt."
+                                        }
+                                    ]
+                                }
+                            ],
+                        }
+                    ],
+                },
+            ],
         }
     ];
 
