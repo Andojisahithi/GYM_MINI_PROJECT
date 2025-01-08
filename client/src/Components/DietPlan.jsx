@@ -2,6 +2,8 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
+import html2canvas from 'html2canvas';
+import jsPDF from 'jspdf';
 import './Styles/DietPlan.css'
 
 const DietPlan = () => {
@@ -7343,6 +7345,27 @@ const DietPlan = () => {
         window.location.reload();
     };
 
+
+    const handleDownloadPdf = async () => {
+        const element = document.querySelector('.plans_container'); // Select the element to screenshot
+        if (!element) return;
+
+        try {
+            // Take a screenshot of the element
+            const canvas = await html2canvas(element, { scale: 2 }); // Higher scale for better quality
+            const imgData = canvas.toDataURL('image/png'); // Convert the canvas to an image
+
+            // Create a new PDF instance
+            const pdf = new jsPDF('p', 'mm', 'a4'); // Portrait, millimeters, A4 size
+            const pdfWidth = pdf.internal.pageSize.getWidth();
+            const pdfHeight = (canvas.height * pdfWidth) / canvas.width; // Maintain aspect ratio
+
+            pdf.addImage(imgData, 'PNG', 0, 0, pdfWidth, pdfHeight); // Add the image to the PDF
+            pdf.save('plans.pdf'); // Save the PDF
+        } catch (error) {
+            console.error('Failed to generate PDF:', error);
+        }
+    };
     return (
 
         <div className="plans_container">
@@ -7388,7 +7411,7 @@ const DietPlan = () => {
                                 <h4 className="food_include_title">Food to Include:</h4>
                                 {plan["Food to Include"].map((food, idx) => (
                                     <div className="food_include_card" key={idx}>
-                                        <h5 className="food_include_heading">{food.Heading}</h5>
+                                        {/* <h5 className="food_include_heading">{food.Heading}</h5> */}
                                         <ul className="food_include_list">
                                             {Object.entries(food)
                                                 .filter(([key]) => key !== "Heading")
@@ -7408,7 +7431,7 @@ const DietPlan = () => {
                 <p className="no_plans_message">No matching plans found.</p>
             )}
             <div className="actions_container">
-                <button className="download_pdf_button">Download Pdf</button>
+                <button className="download_pdf_button" onClick={handleDownloadPdf}>Download Pdf</button>
                 <button className="workout_plan_button" onClick={handleWorkOutPlan}>WorkOutPlan</button>
             </div>
         </div>

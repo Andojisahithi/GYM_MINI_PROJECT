@@ -1,136 +1,186 @@
+/* General Styles */
 .plans_container {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    padding: 20px;
-    background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 1rem;
+}
+
+.plan_card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.plan_duration {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.plan_suggestion {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.breakdown_section {
+  margin-bottom: 1rem;
+}
+
+.breakdown_title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.breakdown_list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.breakdown_item {
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.diet_plan_title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+.diet_plan_card {
+  margin-top: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 0.5rem;
+  background-color: #f9f9f9;
+}
+
+.diet_plan_heading {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.diet_plan_list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.diet_plan_item {
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.food_include_section {
+  margin-top: 1rem;
+}
+
+.food_include_title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.food_include_card {
+  margin-top: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 0.5rem;
+  background-color: #f9f9f9;
+}
+
+.food_include_list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.food_include_item {
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.no_plans_message {
+  font-size: 1.2rem;
+  color: #999;
+  text-align: center;
+}
+
+.actions_container {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.download_pdf_button,
+.workout_plan_button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.download_pdf_button:hover,
+.workout_plan_button:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .plans_container {
+      padding: 0.5rem;
   }
-  
+
   .plan_card {
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    padding: 15px;
-    margin-bottom: 20px;
-    background-color: #fff;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+      padding: 0.8rem;
   }
-  
+
   .plan_duration {
-    font-size: 1.5rem;
-    color: #333;
+      font-size: 1.3rem;
   }
-  
+
   .plan_suggestion {
-    font-size: 1rem;
-    color: #666;
+      font-size: 0.9rem;
   }
-  
-  .breakdown_section {
-    margin-top: 10px;
+
+  .breakdown_item, .diet_plan_item, .food_include_item {
+      font-size: 0.9rem;
   }
-  
-  .breakdown_title {
-    font-size: 1.2rem;
-    color: #555;
+
+  .download_pdf_button, .workout_plan_button {
+      padding: 0.5rem 1rem;
+      font-size: 0.9rem;
   }
-  
-  .breakdown_list {
-    list-style-type: disc;
-    margin-left: 20px;
+}
+
+@media (max-width: 480px) {
+  .plan_duration {
+      font-size: 1.1rem;
   }
-  
-  .breakdown_item {
-    font-size: 1rem;
-    color: #444;
-  }
-  
-  .diet_plan_title {
-    font-size: 1.2rem;
-    margin-top: 20px;
-    color: #555;
-  }
-  
-  .diet_plan_card {
-    margin-top: 10px;
-  }
-  
+
   .diet_plan_heading {
-    font-size: 1rem;
-    font-weight: bold;
-    color: #444;
+      font-size: 1rem;
   }
-  
-  .diet_plan_list {
-    list-style-type: square;
-    margin-left: 20px;
+
+  .download_pdf_button, .workout_plan_button {
+      padding: 0.4rem 0.8rem;
+      font-size: 0.8rem;
   }
-  
-  .diet_plan_item {
-    font-size: 0.9rem;
-    color: #666;
-  }
-  
-  .food_include_section {
-    margin-top: 20px;
-  }
-  
-  .food_include_title {
-    font-size: 1.2rem;
-    color: #555;
-  }
-  
-  .food_include_card {
-    margin-top: 10px;
-  }
-  
-  .food_include_heading {
-    font-size: 1rem;
-    font-weight: bold;
-    color: #444;
-  }
-  
-  .food_include_list {
-    list-style-type: circle;
-    margin-left: 20px;
-  }
-  
-  .food_include_item {
-    font-size: 0.9rem;
-    color: #666;
-  }
-  
-  .no_plans_message {
-    font-size: 1.1rem;
-    color: #999;
-    text-align: center;
-  }
-  
+
   .actions_container {
-    margin-top: 20px;
-    text-align: center;
+      flex-direction: column;
+      gap: 0.5rem;
   }
-  
-  .download_pdf_button,
-  .workout_plan_button {
-    padding: 10px 20px;
-    font-size: 1rem;
-    margin: 5px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  .download_pdf_button {
-    background-color: #007bff;
-    color: #fff;
-  }
-  
-  .workout_plan_button {
-    background-color: #28a745;
-    color: #fff;
-  }
-  
-  .download_pdf_button:hover,
-  .workout_plan_button:hover {
-    opacity: 0.9;
-  }
-  
+}
