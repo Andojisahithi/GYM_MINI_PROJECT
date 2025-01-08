@@ -37,7 +37,7 @@ const Login = () => {
 console.log("Stored userId:", userNumber);
 
 if (userNumber !== null) {
-          navigate(`/WorkOutPlan/${userNumber}`);
+          navigate(`/DietPlan/${userNumber}`);
         } else {
           setIsSignUpOpen(true);
         }

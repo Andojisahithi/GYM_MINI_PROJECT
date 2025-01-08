@@ -3,9 +3,11 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Signup from "./Components/Signup.jsx";
 import Login from "./Components/Login.jsx";
 import FitnessRegistration from "./Components/FitnessRegistration.jsx";
-import WorkoutPlan from "./Components/WorkoutPlan.jsx"; 
+import DietPlan from "./Components/DietPlan.jsx"; 
 import HomePage from "./Components/HomePage.jsx";
 import AboutUs from "./Components/AboutUs.jsx";
+import WorkOutPlan from "./Components/WorkOutPlan.jsx";
+
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -18,7 +20,8 @@ function App() {
         <Route path="/signup" element={<Signup />} />
         <Route path="/login" element={<Login />} />
         <Route path="/fitnessRegistration/:userId" element={<FitnessRegistration />} />
-        <Route path="/workoutPlan/:userId" element={<WorkoutPlan />} />
+        <Route path="/DietPlan/:userId" element={<DietPlan />} />
+        <Route path="/WorkOutPlan/:userId" element={<WorkOutPlan/>} />
       </Routes>
     </Router>
   );

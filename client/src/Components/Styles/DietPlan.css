@@ -1,0 +1,136 @@
+.plans_container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .plan_card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .plan_duration {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .plan_suggestion {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .breakdown_section {
+    margin-top: 10px;
+  }
+  
+  .breakdown_title {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .breakdown_list {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .breakdown_item {
+    font-size: 1rem;
+    color: #444;
+  }
+  
+  .diet_plan_title {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: #555;
+  }
+  
+  .diet_plan_card {
+    margin-top: 10px;
+  }
+  
+  .diet_plan_heading {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #444;
+  }
+  
+  .diet_plan_list {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+  
+  .diet_plan_item {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .food_include_section {
+    margin-top: 20px;
+  }
+  
+  .food_include_title {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .food_include_card {
+    margin-top: 10px;
+  }
+  
+  .food_include_heading {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #444;
+  }
+  
+  .food_include_list {
+    list-style-type: circle;
+    margin-left: 20px;
+  }
+  
+  .food_include_item {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .no_plans_message {
+    font-size: 1.1rem;
+    color: #999;
+    text-align: center;
+  }
+  
+  .actions_container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .download_pdf_button,
+  .workout_plan_button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .download_pdf_button {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .workout_plan_button {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .download_pdf_button:hover,
+  .workout_plan_button:hover {
+    opacity: 0.9;
+  }
+  
