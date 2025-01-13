@@ -42,6 +42,7 @@ a {
     margin: 0 15px;
     font-size: 16px;
     cursor: pointer;
+    padd
 }
 
 .Header ul li:hover {
@@ -61,8 +62,8 @@ a {
     background-color: #004494;
 } */ 
 .Header {
-    /* background: linear-gradient(to right, #f0f0f0, #e6e6e6); Light grey gradient */
-    background: linear-gradient(135deg, #d3d3d3 0%, #6c87a3 50%, #003366 100%);
+    background: white; 
+    /*background: linear-gradient(135deg, #d3d3d3 0%, #6c87a3 50%, #003366 100%);*/
 
     padding: 15px 30px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -78,7 +79,7 @@ a {
 .brand-logo {
     display: flex;
     align-items: center;
-    gap: 10px; /* Adds spacing between logo and name */
+    gap: 8px; /* Adds spacing between logo and name */
 }
 
 .brand-logo img {
@@ -92,13 +93,18 @@ a {
     color: #333; /* Darker grey for readability */
 }
 
+.hamburger {
+    display: none;
+    font-size: 30px;
+    cursor: pointer;
+} 
 /* Navigation Links */
 .Header ul {
     display: flex;
     list-style: none;
     margin: 0;
     padding: 0;
-    gap: 20px; /* Adds equal spacing between navigation items */
+    gap: 30px; /* Adds equal spacing between navigation items */
 }
 
 .Header ul li {
@@ -116,7 +122,7 @@ a {
 
 /* Login Button */
 button {
-    background-color: #002244;
+    background-color: rgb(78, 14, 151);
     color: #FFFFFF;
     border: none;
     border-radius: 5px;
@@ -138,10 +144,19 @@ button {
         align-items: flex-start;
     }
 
+
     .Header ul {
         flex-wrap: wrap;
         justify-content: center;
         gap: 10px;
+    }
+
+    .Header button {
+        align-self: flex-end;
+    }
+
+    .hamburger {
+        display: block; /* Show the hamburger icon on small screens */
     }
 
     .Header button {
@@ -262,34 +277,206 @@ button {
     background-color: #e84118;
 } */
 
+
+
+.home-container {
+    position: relative;
+    height: 100%;
+  }
+
+  
+  /* Content Styling */
+  .content {
+    position: relative;
+    z-index: 1; /* Brings content above the video */
+    text-align: center;
+    color: white;
+    padding: 50px;
+  }
+  
+  .content h1 {
+    font-size: 3rem;
+  } 
+
+  .background-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;  /* Ensures the video covers the screen */
+    z-index: -1;  /* Keeps the video behind the content */
+  }
 /* Section Styles */
 .section_div_1 {
-    background-image: url(../../Assets/gym.jpg);
-    height: 585px;
-    background-size: cover; /* Ensures the image covers the entire container */
-    background-position: center; /* Centers the image */
+
+    height: 550px;
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+    background-color:rgba(121,59,179,255);
+    background-position: right; /* Centers the image */
     background-repeat: no-repeat;
     display: flex; /* Enables flexbox */
     flex-direction: column; /* Align items vertically */
     justify-content: center; /* Centers content vertically */
     align-items: center; /* Centers content horizontally */
-    text-align: center;
+    text-align: right;
     color: #fff;
     padding: 20px; /* Adds a small padding for responsiveness */
+
+
+    display: flex; /* Makes the container a flexbox */
+    flex-direction: row; /* Ensures items are side by side */
+    justify-content: center; /* Centers the images horizontally */
+    align-items: center; /* Aligns the images vertically */
+  gap: 20px; /* Adds space between the images (optional) */
+  
+}
+.pictureone img {
+  width: 50%; /* Makes images responsive */
+  max-width: 500px; /* Limits image width */
+  height: auto; /* Maintains aspect ratio */
+  display: block; /* Removes extra spacing below images */
 }
 
-.section_div_1 h1 {
-    font-size: 55px;
-    margin-bottom: 40px;
-    color: #000; /* Black text for better contrast */
-    max-width: 600px; /* Restrict the text width for readability */
+.picturetwo img{
+
+    margin-top: 60px;
+    margin-right: 450px;
+    max-width: 100%;
 }
+
+.pictureone img {
+    max-width: 400px; /* Adjust the maximum width for Picture One */
+    height: auto; /* Maintains aspect ratio */
+    margin: 80px 120px; /* Centers the image */
+    object-fit: cover; /* Adjusts how the image fits within its container */
+    border-radius: 10px; /* Adds rounded corners (optional) */
+  }
+
+
+.section_div_1 img {
+    gap: 20px;
+    margin-top: 60px;
+    margin-right: 450px;
+    max-width: 100%;  /* Ensures the image scales down based on container width */
+    height: auto;     /* Maintains the aspect ratio */
+    /* Optionally, you can set a max-width for large screens if needed */
+    z-index: 0;
+}
+
+
+@media (max-width: 768px) {
+    .section_div_1 img {
+        margin-right: 20px;  /* Adjust margin for smaller screens */
+        margin-top: 30px;    /* Adjust top margin for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .section_div_1 img {
+        margin-right: 10px;
+        margin-top: 20px;
+    }
+}   
+/* General Styles for the 'para' class */
+.para {
+    font-size: 1 rem;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 2em;
+    color: #561496;
+    color: #561496;
+
+  }
+  
+  p {
+    text-align: justify;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+    line-height: 1.6;
+    font-weight: 500;
+  }
+  
+  br {
+    margin-bottom: 10px;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .para {
+      padding: 15px;
+    }
+  
+    h2 {
+      font-size: 1.6em;
+    }
+  
+    p {
+      font-size: 1.1em;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .para {
+      padding: 10px;
+    }
+  
+    h2 {
+      font-size: 1.4em;
+    }
+  
+    p {
+      font-size: 8px;
+    }
+  }
+  
+
+
+
+    
+
+
+.background img{
+    /*width: 100%;
+    height: 700px;
+    margin-bottom: 10px; */
+}
+
+.background {
+    position: relative;
+    width: 100%; /* Make the container take up full width */
+    height: auto; /* The height will adjust automatically based on the image's aspect ratio */
+}
+
+.background img {
+    width: 100%; /* Make the image responsive, filling the container's width */
+    height: auto; /* Maintain the aspect ratio of the image */
+    object-fit: cover; /* Ensure the image covers the entire div */
+}
+
+/* Optional: Use media queries for further control on smaller screens */
+@media (max-width: 768px) {
+    .background img {
+        /* For small screens, you can adjust the height or object-fit property */
+        height: auto; /* Keep aspect ratio */
+    }
+}
+
+
+ 
+
+
+
+
 
 .section_div_1 .explore_btn {
     padding: 15px 30px;
     font-size: 18px;
     background-color: #003366; /* Navy blue button background */
     color: #fff; /* White text */
+    
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -299,79 +486,173 @@ button {
 .section_div_1 .explore_btn:hover {
     background-color: #001a33; /* Darker navy blue for hover */
 }
-
-
 .section_div_2 {
-    padding: 40px 20px;
-    background-color: #dde2f8;
-    max-width: 600px;
-    margin: 40px auto;
-    border-radius: 8px;
-}
-
-.section_div_2 form {
     display: flex;
-    flex-direction: column;
+    padding: 1px 20px;
+    background-color: whitesmoke;
+    max-width: 100%;
+    margin: 4px ;
+    border-radius: 8px;
+    text-align: center;
+    column-gap: 20px;
+
 }
 
-.section_div_2 label {
-    font-size: 16px;
-    margin-bottom: 10px;
-}
 
-.section_div_2 input {
-    padding: 10px;
-    font-size: 16px;
+form {
+    background-color: white;
+    padding: 55px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px ;
+    max-width: 400px;
+    width: 100%;
+    height: 80%;
+    text-align: center;
+    float: left;
+    
+  }
+  h1 {
+    color: #333;
     margin-bottom: 20px;
-    border: 1px solid #ccc;
+    color: #561496;;
+  }
+  label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+    color:#561496 ;
+  }
+  input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
     border-radius: 5px;
-}
-
-.section_div_2 .calculate_btn {
-    padding: 12px 20px;
-    background-color: #003366;
-    color: #fff;
+    font-size: 20px;
+  }
+  .calculate_btn {
+    background-color:#561496;;
+    color: white;
     border: none;
+    padding: 10px 15px;
     border-radius: 5px;
+    font-size: 16px;
     cursor: pointer;
-    font-size: 18px;
+    transition: background-color 0.3s ease;
+  }
+ 
+
+  @media (min-width: 768px) {
+    form, .bmi-info {
+      max-width: 400px; /* Slightly larger on bigger screens */
+    }
+  }
+
+  @media (max-width: 576px) {
+    h1 {
+      font-size: 18px; /* Smaller headings for mobile */
+    }
+    label, input, button {
+      font-size: 12px;
+    }
+    .calculate_btn {
+      padding: 8px 10px; /* Adjust button size */
+    }
+  }
+.lastsec{
+    padding: 0 10px 10pc 10px 10px;
+}
+.lastsec h2{
+         padding-left: 100px;
+         margin: 0;
+         display: grid;
+         place-items: center; /* Center content both vertically and horizontally */
+         height: 9vh; /* Full viewport height */
+         text-align: center;
 }
 
-.section_div_2 .calculate_btn:hover {
-    background-color: #003366;
+.last p{
+    padding: 23px 52px 33px;
+    font-size: 14px;
+
 }
+
 
 /* Footer Styles */
 .footer_div {
-    background-color: #003366;
+    background-color: rgba(86,20,150,255);
     color: #ffffff;
-    padding: 40px 20px;
+    padding: 13px 20px 25px;
 }
+/* buttton footer*/
+.curve-button {
+    background-color: white; /* white background */
+    border: none; /* Remove default border */
+    color:#561496; /* purple text */
+    padding: 15px 32px; /* Add some padding */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Align buttons horizontally */
+    font-size: 16px; /* Set font size */
+    margin: 4px 2px; /* Margin for spacing */
+    cursor: pointer; /* Change cursor on hover */
+    border-radius: 25px; /* Curve the button */
+    transition: background-color 0.3s ease; /* Smooth background change */
+}
+
+ /* .curve-button:hover {
+    background-color: #45a049; }/* Darker green when hovered */
+  
+
+
+hr {
+    width: 90%; /* Set the desired width */
+    margin-left: auto; /* Automatically adjust the left margin */
+    margin-right: auto; /* Automatically adjust the right margin */
+    border: 0px; /* Remove default border */
+    border-top: 1px solid whitesmoke; /* Add a custom border */
+  }
 .footer_div img {
     width: 50px; /* Adjust the width as needed */
     height: 50px; /* Maintain aspect ratio */
-    margin: 0 auto; /* Center if necessary */
+    float: left;
+    text-align: right;
+    padding-right: 1px;
+    
 }
 
 .footer_div div {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20px;
+    column-gap: 5rem;
+        padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 40px;
+    
+
 }
 
 .footer_div p {
     font-size: 18px;
-    font-weight: bold;
+    font-weight: 700;
+    margin: 0;
+    margin-top: 18px;
     margin-bottom: 10px;
+    padding-left: 0;
+    padding: 0px;
+    color: white;
 }
 
 .footer_div ul {
     list-style: none;
+   
     padding: 0;
+    color: white;
 }
 
 .footer_div ul li {
     font-size: 16px;
+    margin-top: 10px;
 }
 
 .footer_div ul li:hover {
@@ -407,6 +688,7 @@ button {
     .footer_div div {
         flex-direction: column;
         align-items: center;
+       
     }
 
     .section_div_1 h1 {
@@ -420,7 +702,7 @@ button {
 
     .section_div_2 {
         width: 100%;
-        margin: 20px auto;
+        margin: 2px auto;
     }
     @media (max-width: 768px) {
         .footer_div img {
@@ -429,3 +711,186 @@ button {
     }
     
 } 
+
+
+
+
+
+/* Horizontal Scroll Container */
+.horizontal-scroll-container {
+    display: flex;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    gap: 20px; /* Space between items */
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    scrollbar-width: thin; /* Firefox scrollbar styling */
+    scrollbar-color: transparent transparent; /* Firefox scrollbar invisible */
+}
+
+/* Custom Scrollbar for Webkit Browsers */
+.horizontal-scroll-container::-webkit-scrollbar {
+    height: 8px;
+    background: transparent; /* Make the track transparent */
+}
+
+.horizontal-scroll-container::-webkit-scrollbar-thumb {
+    background: transparent; /* Make the thumb transparent */
+    border-radius: 10px;
+}
+
+.horizontal-scroll-container::-webkit-scrollbar-track {
+    background: transparent; /* Make the track transparent */
+}
+
+/* Item Styling */
+.item {
+    display: flex;
+    align-items: center;
+    gap: 42px; /* Space between items */
+    min-width: 60vw; /* Use percentage width for responsiveness */
+    padding: 10px;
+    background: white;
+    border-radius: 8px;
+    flex-shrink: 0; /* Prevent items from shrinking */
+}
+
+/* Image Styling */
+.item img {
+    width: 30vw; /* Responsive image size */
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px; /* Rounded corners */
+}
+
+/* Text Content */
+.text-content {
+    flex: 1; /* Let text take the remaining space */
+}
+
+.text-content h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: Barlow Condensed, sans-serif;
+    color: #333;
+}
+
+.text-content p {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #555;
+}
+
+/* Button Styling */
+.simple-button {
+    background-color:  rgb(78, 14, 151); /* Green background */
+    color: white; /* White text */
+    border: none; /* No border */
+    padding: 12px 24px; /* Padding for size */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Inline block for layout */
+    font-size: 16px; /* Font size */
+    border-radius: 8px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .horizontal-scroll-container {
+        gap: 15px; /* Adjust spacing for smaller screens */
+        padding: 10px;
+    }
+
+    .item {
+        min-width: 80vw; /* Smaller items for tablets */
+    }
+
+    .item img {
+        width: 40vw; /* Adjust image size for tablets */
+    }
+
+    .text-content h1 {
+        font-size: 2rem; /* Adjust text size for tablets */
+    }
+
+    .text-content p {
+        font-size: 0.9rem; /* Adjust text size for tablets */
+    }
+
+    .simple-button {
+        padding: 10px 20px; /* Adjust button size for tablets */
+    }
+}
+.item img {
+    width: 400px;
+    height: 409px;
+    object-fit: cover;
+    border-radius: 24px; /* Increase border-radius for more rounded edges */
+}
+
+
+@media (max-width: 768px) {
+    .horizontal-scroll-container {
+        gap: 10px; /* Reduce gap for mobile screens */
+        padding: 5px;
+    }
+
+    .item {
+        min-width: 90vw; /* Use most of the screen width for mobile */
+    }
+
+    .item img {
+        width: 50vw; /* Smaller images for mobile */
+    }
+
+    .text-content h1 {
+        font-size: 1.6rem; /* Smaller text for mobile */
+    }
+
+    .text-content p {
+        font-size: 0.85rem; /* Smaller text for mobile */
+    }
+
+    .simple-button {
+        font-size: 1rem; /* Adjust button font size */
+        padding: 8px 16px; /* Adjust button padding */
+    }
+}
+
+@media (max-width: 480px) {
+    .horizontal-scroll-container {
+        gap: 5px; /* Further reduce gap for very small screens */
+        padding: 5px;
+    }
+
+    .item {
+        min-width: 90vw; /* Even smaller items for small screens */
+    }
+
+    .item img {
+        width: 80vw; /* Use more of the screen for mobile images */
+        height: auto;
+    }
+
+    .text-content h1 {
+        font-size: 1.4rem; /* Adjust text size for very small screens */
+    }
+
+    .text-content p {
+        font-size: 0.8rem; /* Adjust text size for very small screens */
+    }
+
+    .simple-button {
+        font-size: 0.9rem; /* Smaller button text */
+        padding: 8px 16px; /* Adjust button padding */
+    }
+}
+
+  
+
+  

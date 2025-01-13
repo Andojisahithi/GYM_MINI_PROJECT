@@ -48,8 +48,6 @@ const AboutUs = () => {
           <ul>
             <li>Perfect diet and workout guides from experienced trainers.</li>
             <li>Options like yoga, Pilates, spin, Zumba, HIIT, strength training...</li>
-            <li>Trainer profiles with bios, certifications, and availability.</li>
-            <li>Progress tracking for members to follow their fitness goals.</li>
             <li>Social media integration for easy sharing of events and promotions.</li>
             <li>Performance analytics for tracking class popularity and membership trends.</li>
           </ul>
