@@ -1,7 +1,7 @@
 
-// FitnessRegistration.jsx
+
 import React, { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import axios from "axios";
 import './Styles/FitnessRegistration.css';
 
@@ -16,6 +16,7 @@ const FitnessRegistration = () => {
   const [duration, setDuration] = useState("");
   const [dietPlan, setDietPlan] = useState("");
 
+  const { userId } = useParams(); // Retrieve userId from URL
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -27,8 +28,10 @@ const FitnessRegistration = () => {
 
   const handleRegister = async (e) => {
     e.preventDefault();
-
+  
+    const userId = localStorage.getItem("userId");
     const registrationData = {
+      userId, 
       name,
       age,
       bmi,
@@ -39,11 +42,21 @@ const FitnessRegistration = () => {
       duration,
       dietPlan,
     };
-
+  
+  
     try {
-      const response = await axios.post("http://localhost:5000/api/fitness-registration", registrationData);
+      const response = await axios.post(
+        "http://localhost:5000/api/fitness-registration",
+        registrationData,
+        {
+          headers: {
+            Authorization: `Bearer ${userId}`,
+          },
+        }
+      );
+      console.log(response);  // Log the response to check the backend's reply
       if (response.data.success) {
-        navigate("/workoutPlan");
+        navigate(`/DietPlan/${userId}`);
       } else {
         alert("Error: Could not register. Please try again.");
       }
@@ -52,6 +65,7 @@ const FitnessRegistration = () => {
       alert("Error: Could not register. Please try again.");
     }
   };
+  
 
   const handleOtherHealthChange = (e) => {
     const { checked } = e.target;
@@ -80,11 +94,9 @@ const FitnessRegistration = () => {
       });
     }
   };
-  
 
   return (
     <div className="fitness_registration_container">
-      {/* <h2 className="fitness_registration_heading">Fitness Registration</h2> */}
       <div className="fitness_registration_form_wrapper">
         <h3 className="fitness_registration_subheading">Get Started with Your Fitness Journey</h3>
         <form onSubmit={handleRegister}>
@@ -183,10 +195,10 @@ const FitnessRegistration = () => {
                 <input
                   className="fitness_registration_checkbox"
                   type="checkbox"
-                  value="Lactose Intoleranace"
+                  value="Lactose Intolerance"
                   onChange={handleHealthIssueChange}
                 />
-                Lactose Intoleranace
+                Lactose Intolerance
               </label>
               <label>
                 <input
@@ -220,16 +232,13 @@ const FitnessRegistration = () => {
             >
               <option value="" disabled>Select your fitness goal</option>
               <option value="Lose Weight">Lose Weight</option>
-              <option value="Maintain Weight">Maintain Weight</option>
               <option value="Gain weight">Gain Weight</option>
-              <option value="Gain Muscle">Gain Muscle</option>
-
             </select>
           </div>
 
           <div className="fitness_registration_form_group">
-          <label htmlFor="workoutType" className="fitness_registration_label">Preferred Workout Type</label>
-           <select
+            <label htmlFor="workoutType" className="fitness_registration_label">Preferred Workout Type</label>
+            <select
               className="fitness_registration_input"
               id="workoutType"
               value={workoutType}
@@ -243,11 +252,8 @@ const FitnessRegistration = () => {
               <option value="Pilates">Pilates</option>
               <option value="Aerobic Exercise">Aerobic Exercise</option>
               <option value="Personal Homework Workout">Personal Homework Workout</option>
-
             </select>
           </div>
-
-      
 
           <div className="fitness_registration_form_group">
             <label htmlFor="duration" className="fitness_registration_label">Workout Duration</label>
@@ -262,31 +268,26 @@ const FitnessRegistration = () => {
               <option value="1 Month">1 Month</option>
               <option value="2 Months">2 Months</option>
               <option value="3 Months">3 Months</option>
-              
-
             </select>
           </div>
 
           <div className="fitness_registration_form_group">
-            <label htmlFor="dietPlan" className="fitness_registration_label">Diet Preference</label>            <select
+            <label htmlFor="dietPlan" className="fitness_registration_label">Diet Preference</label>
+            <select
               className="fitness_registration_input"
               id="dietPlan"
               value={dietPlan}
               onChange={(e) => setDietPlan(e.target.value)}
               required
             >
-              <option value="" disabled>Select Diet Preference</option>
-              <option value="Vegan">Vegan</option>
+              <option value="" disabled>Select diet plan</option>
               <option value="Vegetarian">Vegetarian</option>
               <option value="Non-Vegetarian">Non-Vegetarian</option>
-          </select>
+              <option value="Vegan">Vegan</option>
+            </select>
           </div>
 
-          <div className="fitness_registration_button_wrapper">
-            <button type="submit" className="fitness_registration_button">
-              Get Started
-            </button>
-          </div>
+          <button type="submit" className="fitness_registration_button">Register</button>
         </form>
       </div>
     </div>

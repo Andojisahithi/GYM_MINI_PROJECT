@@ -1,0 +1,155 @@
+/* General container styles */
+.workout_plan {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.workout_plan_heading {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #0056b3;
+}
+
+/* Plan structure styles */
+.plan_details {
+    margin: 20px 0;
+}
+
+.plan_structure_heading {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.plan_structure {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.plan_structure_item {
+    margin: 10px 0;
+    font-size: 1rem;
+}
+
+.plan_structure_label {
+    font-weight: bold;
+    color: #0056b3;
+}
+
+/* Breakdown section */
+.breakdown {
+    margin-top: 30px;
+}
+
+.breakdown_heading {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.breakdown_item {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f7f7f7;
+}
+
+.breakdown_goal {
+    font-size: 1rem;
+    margin: 5px 0 10px;
+    color: #666;
+}
+
+.daily_plan {
+    margin-top: 10px;
+    padding-left: 15px;
+}
+
+.daily_plan_item {
+    margin-bottom: 15px;
+}
+
+.daily_plan_label {
+    font-weight: bold;
+    color: #0056b3;
+}
+
+.daily_plan_day {
+    margin-left: 15px;
+    padding: 10px 0;
+}
+
+.daily_plan_activity {
+    margin-bottom: 10px;
+}
+
+.activity_heading {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.activity_details {
+    margin-left: 20px;
+    padding-left: 15px;
+    list-style-type: circle;
+}
+
+.activity_detail_item {
+    font-size: 0.95rem;
+    color: #555;
+}
+
+/* Fallback content */
+.fallback_content {
+    font-style: italic;
+    color: #999;
+}
+
+.fallback_list {
+    margin-left: 20px;
+    list-style-type: disc;
+}
+
+.fallback_list_item {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+/* Tips to Success */
+.tips_to_success {
+    margin-top: 30px;
+}
+
+.tips_to_success_heading {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.tips_list {
+    margin-left: 20px;
+    list-style-type: square;
+    padding-left: 15px;
+}
+
+.tip_item {
+    margin-bottom: 10px;
+}
+
+.tip_label {
+    font-weight: bold;
+    color: #0056b3;
+}
+
+.no_tips_message, .no_breakdown_message, .loading_message {
+    font-size: 1rem;
+    color: #999;
+    font-style: italic;
+}
