@@ -92,7 +92,7 @@ body {
   padding: 12px 20px;
   font-size: 1.2rem;
   color: #fff;
-  background-color: #007bff;
+  background-color: #500d97;
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -100,7 +100,7 @@ body {
 }
 
 .fitness_registration_button:hover {
-  background-color: #0056b3;
+  background-color: #500d97;
 }
 
 @media (max-width: 768px) {

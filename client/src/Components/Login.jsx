@@ -17,8 +17,6 @@ const Login = () => {
   const [isSignUpOpen, setIsSignUpOpen] = useState(false);
   const [isLoginOpen, setIsLoginOpen] = useState(true);
 
-
-
   const handleLogin = async (e) => {
     e.preventDefault();
     try {

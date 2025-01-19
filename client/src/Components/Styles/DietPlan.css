@@ -64,6 +64,13 @@
   font-size: 1.1rem;
   font-weight: bold;
   margin-bottom: 0.5rem;
+  
+}
+.dietplan{
+  font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+    color:#500d97;
 }
 
 .diet_plan_list {
@@ -125,7 +132,7 @@
   font-size: 1rem;
   font-weight: bold;
   color: #fff;
-  background-color: #007bff;
+  background-color: #500d97;
   border: none;
   border-radius: 4px;
   cursor: pointer;
@@ -134,7 +141,7 @@
 
 .download_pdf_button:hover,
 .workout_plan_button:hover {
-  background-color: #0056b3;
+  background-color: #500d97;
 }
 
 /* Responsive Design */
@@ -173,7 +180,7 @@
   .diet_plan_heading {
       font-size: 1rem;
   }
-
+  
   .download_pdf_button, .workout_plan_button {
       padding: 0.4rem 0.8rem;
       font-size: 0.8rem;

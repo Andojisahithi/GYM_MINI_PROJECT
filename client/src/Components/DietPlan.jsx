@@ -16943,7 +16943,6 @@ const DietPlan = () => {
             ],
         }
     ];
-
     useEffect(() => {
         const fetchRegistrations = async () => {
             try {
@@ -16958,8 +16957,6 @@ const DietPlan = () => {
 
         fetchRegistrations();
     }, [userId]);
-
-
 
     useEffect(() => {
         if (registrations.length > 0) {
@@ -17047,6 +17044,7 @@ const DietPlan = () => {
     return (
 
         <div className="plans_container">
+        <h1 className="dietplan">Diet Plan</h1>
             {matchedPlans.length > 0 ? (
                 matchedPlans.map((plan, index) => (
                     <div className="plan_card" key={index}>
