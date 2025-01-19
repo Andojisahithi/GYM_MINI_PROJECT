@@ -16,7 +16,7 @@
 
         /* Header Styling */
         header {
-            background: linear-gradient(135deg, #0fd850 0%, #f9f047 100%);
+            background-color: rgba(121, 59, 179, 255);
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
             color: #fff;
             padding: 30px 0;
@@ -76,7 +76,7 @@
 
         .feature-list ul {
             list-style-type: none;
-            padding-left: 0;
+            padding:  1px 60px 30px 15px;
             display: flex;
             flex-wrap: wrap;
         }
@@ -91,9 +91,7 @@
             transition: background 0.3s ease;
         }
 
-        .feature-list ul li:hover {
-            background-color: #ffefef;
-        }
+        
 
         /* CTA Styling */
         .cta {
@@ -102,21 +100,16 @@
         }
 
         .cta a {
-            background-color: #ff4b2b;
+            background-color: rgba(121, 59, 179, 255);
             color: #fff;
             padding: 15px 30px;
             text-decoration: none;
             border-radius: 30px;
             font-size: 1.2rem;
             transition: background-color 0.3s ease;
-            box-shadow: 0 5px 15px rgba(255, 75, 43, 0.4);
         }
 
-        .cta a:hover {
-            background-color: #ff416c;
-            box-shadow: 0 5px 15px rgba(255, 65, 108, 0.4);
-        }
-
+        
         /* Responsive Design */
         @media (max-width: 768px) {
             header h1 {
