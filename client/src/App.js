@@ -8,7 +8,6 @@ import HomePage from "./Components/HomePage.jsx";
 import AboutUs from "./Components/AboutUs.jsx";
 import WorkOutPlan from "./Components/WorkOutPlan.jsx";
 // import 'bootstrap/dist/css/bootstrap.min.css';
-
 function App() {
   return (
     <Router>
