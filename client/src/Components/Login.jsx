@@ -1,10 +1,7 @@
-
-
-
 import React, { useState } from "react";
-import { useNavigate, Link,useParams } from "react-router-dom";
+import { useNavigate, Link, useParams } from "react-router-dom";
 import axios from "axios";
-import './Styles/Login.css';
+import "./Styles/Login.css";
 import Signup from "./Signup";
 
 const Login = () => {
@@ -12,7 +9,7 @@ const Login = () => {
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const navigate = useNavigate();
-  const {userId}=useParams()
+  const { userId } = useParams();
 
   const [isSignUpOpen, setIsSignUpOpen] = useState(false);
   const [isLoginOpen, setIsLoginOpen] = useState(true);
@@ -26,28 +23,24 @@ const Login = () => {
         password,
       });
       console.log("response", response);
-  
+
       localStorage.setItem("token", response.data.token);
       localStorage.setItem("user", JSON.stringify(response.data.user));
       localStorage.setItem("userId", response.data.user.userId);
 
       const userNumber = localStorage.getItem("userId");
-console.log("Stored userId:", userNumber);
+      console.log("Stored userId:", userNumber);
 
-if (userNumber !== null) {
-          navigate(`/DietPlan/${userNumber}`);
-        } else {
-          setIsSignUpOpen(true);
-        }
-
+      if (userNumber !== null) {
+        navigate(`/DietPlan/${userNumber}`);
+      } else {
+        setIsSignUpOpen(true);
+      }
     } catch (err) {
       console.error("Login error:", err); // Log full error details
       setError(err.response?.data?.message || "Something went wrong!");
     }
   };
-  
-
-
 
   const handleOpenSignUp = () => {
     setIsSignUpOpen(true);
@@ -62,7 +55,7 @@ if (userNumber !== null) {
   const handleCloseSignUpForm = () => {
     setIsLoginOpen(true);
     setIsSignUpOpen(false);
-    navigate('/');
+    navigate("/");
   };
 
   return (
@@ -89,16 +82,29 @@ if (userNumber !== null) {
               onChange={(e) => setPassword(e.target.value)}
               required
             />
-            <button type="submit" className="login_btn">Login</button>
+            <button type="submit" className="login_btn">
+              Login
+            </button>
           </form>
           {error && <p className="error-message">{error}</p>}
-          <p>Don't have an account? <Link className="signup_button" onClick={handleOpenSignUp}>Sign Up</Link></p>
+          <p>
+            Don't have an account?{" "}
+            <Link className="signup_button" onClick={handleOpenSignUp}>
+              Sign Up
+            </Link>
+          </p>
         </>
       )}
       {isSignUpOpen && (
         <div className="signup_modal_overlay" onClick={handleCloseSignUp}>
-          <div className="signup_modal_content" onClick={(e) => e.stopPropagation()}>
-            <button className="signup_close_button" onClick={handleCloseSignUpForm}>
+          <div
+            className="signup_modal_content"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <button
+              className="signup_close_button"
+              onClick={handleCloseSignUpForm}
+            >
               &times;
             </button>
             <Signup />
